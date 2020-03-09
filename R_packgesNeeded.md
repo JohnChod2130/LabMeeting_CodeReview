@@ -20,10 +20,7 @@ install_version("dplyr", version = "0.8.3", repos = "http://cran.us.r-project.or
 devtools not working- need to download Xcode but it's too large
 
 Download Xcode command line tool:https://stackoverflow.com/questions/7047735/where-can-i-download-old-versions-of-xcode
-
-
-Download packaged from source
-
+Not the whole Xcode application.
 
 dplyr_0.8.3
 reshape_0.8.8
@@ -31,8 +28,15 @@ reshape2_1.4.3
 gridExtra_2.3
 ggplot2_3.2.0
 vegan_2.5-4 
-grid
-gridExtra_2.3
 VennDiagram_1.6.20
+latticeExtra_0.6-28
+stringr_1.4.0
 
 Via bioconductor
+DESeq2_1.22.2
+pathview_1.22.3
+gage_2.32.1
+KEGGREST_1.22.0
+
+
+
