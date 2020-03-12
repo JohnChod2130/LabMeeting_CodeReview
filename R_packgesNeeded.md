@@ -33,7 +33,7 @@ For example
 install_version("dplyr", version = "0.8.3", repos = "http://cran.us.r-project.org")
 ```
 
-dplyr_0.8.3
+dplyr_0.8.3 <br />
 reshape_0.8.8
 reshape2_1.4.3
 gridExtra_2.3
